@@ -1,0 +1,14 @@
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\bin\Debug\net6.0\HW9.PrototypeConsole.exe
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\bin\Debug\net6.0\HW9.PrototypeConsole.deps.json
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\bin\Debug\net6.0\HW9.PrototypeConsole.runtimeconfig.json
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\bin\Debug\net6.0\HW9.PrototypeConsole.dll
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\bin\Debug\net6.0\HW9.PrototypeConsole.pdb
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.AssemblyInfoInputs.cache
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.AssemblyInfo.cs
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.csproj.CoreCompileInputs.cache
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.dll
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\refint\HW9.PrototypeConsole.dll
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.pdb
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\HW9.PrototypeConsole.genruntimeconfig.cache
+C:\Users\LAS\source\repos\HW9.PrototypeConsole\HW9.PrototypeConsole\obj\Debug\net6.0\ref\HW9.PrototypeConsole.dll
